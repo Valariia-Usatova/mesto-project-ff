@@ -1,3 +1,5 @@
+export {initialCards};
+
 const initialCards = [
   {
     name: "Пещера",
